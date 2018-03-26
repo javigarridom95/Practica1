@@ -1,8 +1,8 @@
-#Práctica1
+Práctica1
 
 Realizado por: Javier Garrido Montes
 
-##Descripción de la práctica:
+Descripción de la práctica:
 
 Para la realización de esta práctica, he creado dos máquinas virtuales de ubuntu server en VirtualBox siguiendo el guión con las indicaciones del profesor.
 La primera máquina se llama maquina1, el usuario creado es javi y su dirección IP: 192.168.56.105.
